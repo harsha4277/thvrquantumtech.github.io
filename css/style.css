@@ -2621,7 +2621,7 @@ ul.grid__list--fmenu li a:hover {
   right:2%;
 }
 .intro{
-  width:max-content;
+  width:100%;
 }
 .modal__wrapper {
   top: 18%;
