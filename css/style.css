@@ -2900,11 +2900,11 @@ ul.grid__list--fmenu li {
 }
 
 .intro-animation{
-  width:90%;
+  /* width:90%; */
   height:35%;
   float:left; 
   text-align:right;
-	position:absolute;
+	/* position:absolute; */
 	bottom:0;
 	left:5%;
 	z-index:222;
