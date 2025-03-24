@@ -775,7 +775,7 @@ h6{
 .intro{
 	width:100%;
 	float:left;
-	padding:15% 0 0 0;
+	padding:0 0 0 0;
 	position:relative;
 	z-index:777;
 }
@@ -784,9 +784,9 @@ h6{
 	text-align:left;
 }
 .intro__title{
-	padding:0 0 20px 0;
+	padding:0 0 0 0;
 	color:#180e31;
-	font-size:64px;
+	font-size:58px;
 	line-height:80px;
 	  font-family: "Archivo", sans-serif;
  
@@ -2621,7 +2621,7 @@ ul.grid__list--fmenu li a:hover {
   right:2%;
 }
 .intro{
-  width:50%;
+  width:100%;
 }
 .modal__wrapper {
   top: 18%;
