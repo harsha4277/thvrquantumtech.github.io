@@ -1930,7 +1930,7 @@ a.ui-button:active,
 	.footAddress:hover {color: #242323}
 	.contactCall {text-align: center;margin-top: 15px; margin-bottom: 25px;}
 	.contactCall a {margin: 0 10px;font-size: 20px}
-	.contactCall a:nth-child(2), .contactCall a:nth-child(1){display: none;}
+	/* .contactCall a:nth-child(2), .contactCall a:nth-child(1){display: none;} */
 	.contactCall a img {height: 20px;display: inline-block;vertical-align: middle;position: relative;top: -1px;}
 	.contactPhoneNumber {color: #ff7c4d;font-weight: 600;font-weight: 500}
 	.contactPhoneNumber:hover {color: #ff7c4d;opacity: .8}
